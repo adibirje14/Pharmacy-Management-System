@@ -1,0 +1,13 @@
+	 Welcome Sunshine Pharmacy
+ Bill Number : 8653
+ Customer Name : 
+ Phone Number : 
+ Email Address : 
+======================================================
+ Products		Quantity		Price
+======================================================
+
+ Omez		3		55
+ Crocin		1		450
+ Paracetamol		4		35
+ Tetanus		2		50

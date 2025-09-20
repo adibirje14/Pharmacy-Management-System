@@ -1,0 +1,9 @@
+	 Welcome Sunshine Pharmacy
+ Bill Number : 6485
+ Customer Name : 
+ Phone Number : 
+ Email Address : 
+======================================================
+ Products		Quantity		Price
+======================================================
+

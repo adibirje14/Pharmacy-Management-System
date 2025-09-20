@@ -1,0 +1,14 @@
+	 Welcome Sunshine Pharmacy
+ Bill Number : 1495
+ Customer Name : adi
+ Phone Number : 12345
+ Email Address : abcd
+======================================================
+ Products		Quantity		Price
+======================================================
+ Distaclor		3		175
+======================================================
+ Sub Total : Rs.525.00
+ Tax : Rs.63.00
+ Amount Total : Rs.588.00
+======================================================

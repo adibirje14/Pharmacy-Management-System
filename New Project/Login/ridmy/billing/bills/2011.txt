@@ -1,0 +1,18 @@
+	 Sunshine Pharmacy
+ Bill Number : 2011
+ Customer Name : XYZ
+ Phone Number : 123456
+ Email Address : xyz
+======================================================
+ Products		Quantity		Price
+======================================================
+ Combiflam		1		120
+ Pan-D		2		55
+ Digene		2		95
+ Aspirin		2		65
+ Tetanus		7		50
+======================================================
+ Sub Total : Rs.900.00
+ Tax : Rs.153.00
+ Amount Total : Rs.1053.00
+======================================================

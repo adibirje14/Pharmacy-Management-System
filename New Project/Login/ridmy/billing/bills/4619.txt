@@ -1,0 +1,17 @@
+	 Sunshine Pharmacy
+ Bill Number : 4619
+ Customer Name : Aditya Sathe
+ Phone Number : 7845253124
+ Email Address : adisathe@gmail.com
+======================================================
+ Products		Quantity		Price
+======================================================
+ Tetanus		1		50
+ Crocin		1		450
+ Combiflam		1		120
+ Distaclor		1		175
+======================================================
+ Sub Total : Rs.795.00
+ Tax : Rs.111.60
+ Amount Total : Rs.906.60
+======================================================

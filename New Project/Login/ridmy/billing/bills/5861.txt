@@ -1,0 +1,15 @@
+	 Welcome Sunshine Pharmacy
+ Bill Number : 5861
+ Customer Name : 12345
+ Phone Number : abcd
+ Email Address : adnc
+======================================================
+ Products		Quantity		Price
+======================================================
+ Omez		2		55
+ Crocin		2		450
+======================================================
+ Sub Total : Rs.1010.00
+ Tax : Rs.100.80
+ Amount Total : Rs.1110.80
+======================================================

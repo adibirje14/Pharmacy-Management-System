@@ -1,0 +1,18 @@
+	 Sunshine Pharmacy
+ Bill Number : 5199
+ Customer Name : Pramod Sathe
+ Phone Number : 1234567890
+ Email Address : pramod123@gmail.com
+======================================================
+ Products		Quantity		Price
+======================================================
+ Combiflam		1		120
+ Aspirin		1		65
+ Digene		1		95
+ Omez		1		55
+ Tetanus		3		50
+======================================================
+ Sub Total : Rs.485.00
+ Tax : Rs.78.30
+ Amount Total : Rs.563.30
+======================================================

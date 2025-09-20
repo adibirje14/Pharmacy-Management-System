@@ -1,0 +1,12 @@
+	 Sunshine Pharmacy
+ Bill Number : 6954
+ Customer Name : 
+ Phone Number : 
+ Email Address : 
+======================================================
+ Products		Quantity		Price
+======================================================
+
+ Omez		2		55
+ Nasivion		1		125
+ Paracetamol		1		35

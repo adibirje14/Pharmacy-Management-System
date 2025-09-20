@@ -1,0 +1,16 @@
+	 Welcome Sunshine Pharmacy
+ Bill Number : 1364
+ Customer Name : Nagesh Sathe
+ Phone Number : 12345
+ Email Address : nageshchimom@gmail.com
+======================================================
+ Products		Quantity		Price
+======================================================
+ Caflor		2		205
+ Digene		2		95
+ Paracetamol		3		35
+======================================================
+ Sub Total : Rs.705.00
+ Tax : Rs.120.60
+ Amount Total : Rs.825.60
+======================================================
