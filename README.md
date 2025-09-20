@@ -1,4 +1,5 @@
 **💊 Pharmacy Management System**
+
 **📌 Overview**
 
 This is a Pharmacy Management System built with Python (Tkinter) and MySQL.
@@ -50,50 +51,50 @@ The application provides modules for:
   - c) pharmacy (medicine details & stock)
   - d) bill (billing records)
 
-Example (simplified):
+      Example (simplified):
 
-CREATE DATABASE project;
-
-CREATE TABLE register (
-    fname VARCHAR(50),
-    lname VARCHAR(50),
-    contact VARCHAR(15),
-    email VARCHAR(50) PRIMARY KEY,
-    securityQ VARCHAR(50),
-    securityA VARCHAR(50),
-    password VARCHAR(50)
-);
-
-CREATE TABLE pharma (
-    ref VARCHAR(50) PRIMARY KEY,
-    medname VARCHAR(100)
-);
-
-CREATE TABLE pharmacy (
-    reg VARCHAR(50),
-    companyname VARCHAR(100),
-    type VARCHAR(50),
-    tabletname VARCHAR(100),
-    lotno INT,
-    issuedate DATE,
-    expdate DATE,
-    uses TEXT,
-    sideeffect TEXT,
-    dosage VARCHAR(50),
-    price FLOAT,
-    productqt INT
-);
-
-CREATE TABLE bill (
-    date DATE,
-    billno VARCHAR(50),
-    cname VARCHAR(100),
-    cemail VARCHAR(100),
-    cphone VARCHAR(15),
-    subtotal VARCHAR(20),
-    tax VARCHAR(20),
-    total VARCHAR(20)
-);
+      CREATE DATABASE project;
+      
+      CREATE TABLE register (
+          fname VARCHAR(50),
+          lname VARCHAR(50),
+          contact VARCHAR(15),
+          email VARCHAR(50) PRIMARY KEY,
+          securityQ VARCHAR(50),
+          securityA VARCHAR(50),
+          password VARCHAR(50)
+      );
+      
+      CREATE TABLE pharma (
+          ref VARCHAR(50) PRIMARY KEY,
+          medname VARCHAR(100)
+      );
+      
+      CREATE TABLE pharmacy (
+          reg VARCHAR(50),
+          companyname VARCHAR(100),
+          type VARCHAR(50),
+          tabletname VARCHAR(100),
+          lotno INT,
+          issuedate DATE,
+          expdate DATE,
+          uses TEXT,
+          sideeffect TEXT,
+          dosage VARCHAR(50),
+          price FLOAT,
+          productqt INT
+      );
+      
+      CREATE TABLE bill (
+          date DATE,
+          billno VARCHAR(50),
+          cname VARCHAR(100),
+          cemail VARCHAR(100),
+          cphone VARCHAR(15),
+          subtotal VARCHAR(20),
+          tax VARCHAR(20),
+          total VARCHAR(20)
+      );
 
 
 3. Run the Application: python main.py
