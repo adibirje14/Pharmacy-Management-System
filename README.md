@@ -38,19 +38,17 @@ The application provides modules for:
 
 **⚙️ Setup Instructions**
 
-1. Install Dependencies
-
-pip install pillow mysql-connector-python
+1. Install Dependencies: pip install pillow mysql-connector-python
 
 
 2. Setup Database
 
 - Create a MySQL database named project.
 - Create the following tables:
-  a) register (for user login/registration)
-  b) pharma (medicine references)
-  c) pharmacy (medicine details & stock)
-  d) bill (billing records)
+  - a) register (for user login/registration)
+  - b) pharma (medicine references)
+  - c) pharmacy (medicine details & stock)
+  - d) bill (billing records)
 
 Example (simplified):
 
@@ -98,9 +96,7 @@ CREATE TABLE bill (
 );
 
 
-3. Run the Application
-
-python main.py
+3. Run the Application: python main.py
 
 
 **Made by Aditya Birje**
