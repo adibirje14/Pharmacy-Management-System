@@ -46,16 +46,16 @@ The application provides modules for:
 
 - Create a MySQL database named project.
 - Create the following tables:
-  - a) register (for user login/registration)
-  - b) pharma (medicine references)
-  - c) pharmacy (medicine details & stock)
-  - d) bill (billing records)
+  - register (for user login/registration)
+  - pharma (medicine references)
+  - pharmacy (medicine details & stock)
+  - bill (billing records)
 
-      Example (simplified):
+    Example (simplified):
 
-      CREATE DATABASE project;
+    CREATE DATABASE project;
       
-      CREATE TABLE register (
+    CREATE TABLE register (
           fname VARCHAR(50),
           lname VARCHAR(50),
           contact VARCHAR(15),
@@ -63,14 +63,14 @@ The application provides modules for:
           securityQ VARCHAR(50),
           securityA VARCHAR(50),
           password VARCHAR(50)
-      );
+    );
       
-      CREATE TABLE pharma (
+    CREATE TABLE pharma (
           ref VARCHAR(50) PRIMARY KEY,
           medname VARCHAR(100)
-      );
+    );
       
-      CREATE TABLE pharmacy (
+    CREATE TABLE pharmacy (
           reg VARCHAR(50),
           companyname VARCHAR(100),
           type VARCHAR(50),
@@ -83,9 +83,9 @@ The application provides modules for:
           dosage VARCHAR(50),
           price FLOAT,
           productqt INT
-      );
+    );
       
-      CREATE TABLE bill (
+    CREATE TABLE bill (
           date DATE,
           billno VARCHAR(50),
           cname VARCHAR(100),
@@ -94,7 +94,7 @@ The application provides modules for:
           subtotal VARCHAR(20),
           tax VARCHAR(20),
           total VARCHAR(20)
-      );
+    );
 
 
 3. Run the Application: python main.py
